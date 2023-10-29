@@ -1,4 +1,4 @@
-# Bdjobs Login Test Case Assignment
+# Bdjobs Test Case Assignment
 
 - [x] Bdjobs login test case
     - Name: Only Accepts Name
